@@ -1,5 +1,4 @@
 div {
-
     margin: auto;
     h1 {
         text-align: center;
@@ -20,4 +19,7 @@ div {
 img {
     display: flex;
     margin: auto;
+}
+body{
+    background-color: rgb(184, 110, 199);
 }
